@@ -8,8 +8,8 @@
     ],
         "routers":[
             {
-                "src": "/.*",
-            "dest": "index.js"
+                "src": "/(.*)",
+            "dest": "/"
         }
         ]
     
